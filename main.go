@@ -1,5 +1,5 @@
 package main
-import 
+import
 "fmt"
 
 func main() {
@@ -7,5 +7,5 @@ fmt.Println(hello())
 }
 
 func hello() string {
-return "Hello go"
+return "Hello Go"
 }

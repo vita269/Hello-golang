@@ -1,7 +1,7 @@
 package main
 import "testing"
 
-gunc TestHello(t *testing.T) {
+func TestHello(t *testing.T) {
 want := "Hello Go"
 
 got := hello()
